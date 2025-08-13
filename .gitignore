@@ -1,0 +1,45 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model and dataset files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.onnx
+*.joblib
+*.pkl
+*.npy
+*.npz
+
+# Temporary files
+*.tmp
+*.temp
+
+# Datasets
+/data/
+dataset/
